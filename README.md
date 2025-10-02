@@ -1,3 +1,4 @@
+![Overview Analysis](https://raw.githubusercontent.com/trilochan7504/Uber_Analysis_PowerBI_Dashboard_Project_Business/main/Overview%20Analysis.png)
 
 # Uber Data Analysis
 This repo analyzes Uber's ride-hailing data to uncover demand trends, geographic hotspots, trip durations, and user behaviors—supporting insights-driven decision-making in ride-sharing operations.
